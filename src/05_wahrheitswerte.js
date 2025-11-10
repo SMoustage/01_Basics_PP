@@ -40,3 +40,7 @@ let isJohnOlder = (ageJohn > ageMark); // Test auf ungleicheheit
 let isJohnEqual = (ageJohn == ageMark); // Test auf Gleichheit 
 console.log("isJohnOlder: " + isJohnOlder);
 console.log("isJohnEqual: " + isJohnEqual); 
+
+
+
+
